@@ -27,7 +27,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap" rel="stylesheet">
 </head>
 
-<body>
+<body onload="typeWriter()">
   <div style="position: relative !important;">
   <div id="tsparticles"></div>
   <div class="unscollable">
@@ -58,6 +58,17 @@
   $(function () {
     $('[data-toggle="tooltip"]').tooltip()
   })
+  var i = 0;
+  var txt = '[ Devster ]';
+  var speed = 200;
+
+  function typeWriter() {
+    if (i < txt.length) {
+      document.getElementById("me").innerHTML += txt.charAt(i);
+      i++;
+      setTimeout(typeWriter, speed);
+    }
+  }
 </script>
 </body>
 </html>

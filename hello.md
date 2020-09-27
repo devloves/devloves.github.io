@@ -11,7 +11,7 @@
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
-		<img src='https://img.shields.io/badge/Discord-Dev%237558-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord - Riday 💙#7468'>
+		<img src='https://img.shields.io/badge/Discord-Dev%237558-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord - dev#7558'>
 	</a>
 	<p>
 	More Coming Soon..
@@ -39,8 +39,12 @@
 		<img src='https://img.shields.io/badge/code-css-1572B6?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=1572B6' alt='CSS'>
 	</a>
 	&ensp;
-	<a href='https://www.typescriptlang.org/'>
-		<img src='https://img.shields.io/badge/code-typescript-007ACC?logoWidth=30&labelColor=black&style=for-the-badge&logo=typescript' alt='TypeScript'>
+	<a href='https://www.react.org/'>
+		<img src='https://img.shields.io/badge/code-react-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
+	</a>
+	&emsp;
+	<a href='https://www.Vuejs.org/'>
+		<img src='https://img.shields.io/badge/code-react-green?logoWidth=30&labelColor=black&style=for-the-badge&logo=vue' alt='Vue.js'>
 	</a>
 	&emsp;
 	<a href='https://www.python.org/'>

@@ -1,5 +1,6 @@
 # 👋Hey There i am
-<h1 style="background-color: #CA4246; background-image: linear-gradient(45deg, #CA4246 16.666%, #E16541 16.666%, #E16541 33.333%, #F18F43 33.333%, #F18F43 50%, #8B9862 50%, #8B9862 66.666%, #476098 66.666%, #476098 83.333%, #A7489B 83.333%); background-size: 100%; background-repeat: repeat; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">[ Devster ]</h1>
+<link rel="stylesheet" type="text/css" media="all" href="https://cdn.discordapp.com/attachments/705110233474793512/759791407229042769/ayy.css" />
+<h1 id="dev">[ Devster ]</h1>
 <div style='font-size:1.2em'>
 	<b>Full stack Web Dev and Programming Enthuciast</b>
 	&ldquo; I am Just A Developer who keeps Learning sharing knowledge i have &rdquo;

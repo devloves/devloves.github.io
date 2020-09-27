@@ -22,18 +22,6 @@
 
 ## 🔧 Languages I Know
 <div align='left' style="display: flex; justify-content: space-between;">
-	<!-- Version Control -->
-	<a href='https://github.com/'>
-		<img src='https://img.shields.io/badge/version%20control-github-181717?logoWidth=30&labelColor=black&style=for-the-badge&logo=github' alt='GitHub'>
-	</a>
-	&emsp;
-	<a href='https://git-scm.com'>
-		<img src='https://img.shields.io/badge/version%20control-git-F05032?logoWidth=30&labelColor=black&style=for-the-badge&logo=git' alt='git'>
-	</a>
-	&emsp;
-	<p style='line-height:0.4em'>
-		<br>
-	</p>
 	<!-- Programming Languages. -->
 	<a href='https://nodejs.org/en/'>
 		<img src='https://img.shields.io/badge/code-node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge' alt='Node.js'>
@@ -41,10 +29,6 @@
 	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
 		<img src='https://img.shields.io/badge/code-javascript-F7DF1E?logo=javascript&logoWidth=30&labelColor=black&style=for-the-badge' alt='JavaScript'>
-	</a>
-	&emsp;
-	<a href='https://www.typescriptlang.org/'>
-		<img src='https://img.shields.io/badge/code-typescript-007ACC?logoWidth=30&labelColor=black&style=for-the-badge&logo=typescript' alt='TypeScript'>
 	</a>
 	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
@@ -55,12 +39,12 @@
 		<img src='https://img.shields.io/badge/code-css-1572B6?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=1572B6' alt='CSS'>
 	</a>
 	&ensp;
-	<a href='https://pugjs.org'>
-		<img src='https://raw.githubusercontent.com/ridays2001/ridays2001/main/media/pug.svg' alt='Pug'>
+	<a href='https://www.typescriptlang.org/'>
+		<img src='https://img.shields.io/badge/code-typescript-007ACC?logoWidth=30&labelColor=black&style=for-the-badge&logo=typescript' alt='TypeScript'>
 	</a>
 	&emsp;
-	<a href='https://www.java.com/'>
-		<img src='https://img.shields.io/badge/code-java-007396?logoWidth=30&labelColor=black&style=for-the-badge&logo=java' alt='Java'>
+	<a href='https://www.python.org/'>
+		<img src='https://img.shields.io/badge/code-python-007396?logoWidth=30&labelColor=black&style=for-the-badge&logo=python' alt='Java'>
 	</a>
 	&emsp;
 	<a href='#'>
@@ -75,20 +59,12 @@
 		<img src='https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php' alt='PHP'>
 	</a>
 	&emsp;
-	<p style='line-height:0.4em'>
-		<br>
-	</p>
-	<!-- Misc. Tools. -->
-	<a href='https://eslint.org/'>
-		<img src='https://img.shields.io/badge/tools-eslint-4B32C3?logoWidth=30&labelColor=black&style=for-the-badge&logo=eslint' alt='ESLint'>
-	</a>
-	&emsp;
 	<a href='https://getbootstrap.com/'>
 		<img src='https://img.shields.io/badge/tools-bootstrap-563D7C?logo=bootstrap&logoWidth=30&labelColor=black&style=for-the-badge' alt='Bootstrap'>
 	</a>
 	&emsp;
 	<a href='https://repl.it/'>
-		<img src='https://img.shields.io/badge/tools-repl-430098?logoWidth=30&labelColor=black&style=for-the-badge&logo=heroku' alt='Heroku'>
+		<img src='https://img.shields.io/badge/tools-repl-430098?logoWidth=30&labelColor=black&style=for-the-badge&logo=repl' alt='REPL'>
 	</a>
 	&emsp;
 </div>

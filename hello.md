@@ -20,7 +20,7 @@
 
 <br>
 
-## 🔧 Languages I Know
+## 🔧 Langs / Tools / Frameworks
 <div align='left' style="display: flex; justify-content: space-between;">
 	<!-- Programming Languages. -->
 	<a href='https://nodejs.org/en/'>
@@ -64,7 +64,7 @@
 	</a>
 	&emsp;
 	<a href='https://repl.it/'>
-		<img src='https://img.shields.io/badge/tools-repl-430098?logoWidth=30&labelColor=black&style=for-the-badge&logo=repl' alt='REPL'>
+		<img src='https://img.shields.io/badge/tools-repl-430098?logoWidth=30&labelColor=black&style=for-the-badge&logo=replit' alt='REPL.IT'>
 	</a>
 	&emsp;
 </div>
